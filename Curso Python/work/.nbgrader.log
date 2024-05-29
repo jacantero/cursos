@@ -1,0 +1,1528 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://6fb25eade247:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.111) 0.54ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | INFO] 302 GET / (73.145.170.32) 0.46ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (73.145.170.32) 5.39ms referer=https://instructorgmvozbye.coursera-apps.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (73.145.170.32) 1.00ms referer=https://instructorgmvozbye.coursera-apps.org/tree?
+[NotebookApp | INFO] New terminal with automatic name: 1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (73.145.170.32) 0.95ms referer=https://instructorgmvozbye.coursera-apps.org/terminals/1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (73.145.170.32) 1.00ms referer=https://instructorgmvozbye.coursera-apps.org/terminals/1
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://025a8e1e0a71:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.88) 0.54ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.48ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 5.01ms referer=https://instructorgmvozbye.coursera-apps.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.55ms referer=https://instructorgmvozbye.coursera-apps.org/tree?
+[NotebookApp | INFO] Uploading file to /resources/datasets/mpg.csv
+[NotebookApp | INFO] 302 GET / (10.0.0.96) 0.47ms
+[NotebookApp | INFO] 302 GET / (10.0.0.92) 0.46ms
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.46ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.02ms referer=https://instructorgmvozbye.coursera-apps.org/tree?
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://f242d8892f6f:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.30) 1.11ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 11.64ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.26ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.58ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Kernel started: d5ddacfd-6fe6-48a4-9dbc-af6f240a3efb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel d5ddacfd-6fe6-48a4-9dbc-af6f240a3efb) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Kernel interrupted: d5ddacfd-6fe6-48a4-9dbc-af6f240a3efb
+[NotebookApp | INFO] Starting buffering for d5ddacfd-6fe6-48a4-9dbc-af6f240a3efb:6fc4ac954a2a4914b50bb74276c6c455
+[NotebookApp | INFO] Kernel restarted: d5ddacfd-6fe6-48a4-9dbc-af6f240a3efb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel d5ddacfd-6fe6-48a4-9dbc-af6f240a3efb) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for d5ddacfd-6fe6-48a4-9dbc-af6f240a3efb:6fc4ac954a2a4914b50bb74276c6c455
+[NotebookApp | INFO] Replaying 5 buffered messages
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Your personal Jupyter Workspace lecture.ipynb
+[NotebookApp | INFO] Starting buffering for d5ddacfd-6fe6-48a4-9dbc-af6f240a3efb:6fc4ac954a2a4914b50bb74276c6c455
+[NotebookApp | INFO] Kernel shutdown: d5ddacfd-6fe6-48a4-9dbc-af6f240a3efb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.21ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] New terminal with automatic name: 1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.06ms referer=https://dpkjiaol.labs.coursera.org/terminals/1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.26ms referer=https://dpkjiaol.labs.coursera.org/terminals/1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.08ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.17ms referer=https://dpkjiaol.labs.coursera.org/notebooks/assignments/assignment1/assignment1.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.26ms referer=https://dpkjiaol.labs.coursera.org/notebooks/assignments/assignment1/assignment1.ipynb
+[NotebookApp | WARNING] Notebook assignments/assignment1/assignment1.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 28009c8b-4cb8-4289-bff4-f8723c7c24d3
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 28009c8b-4cb8-4289-bff4-f8723c7c24d3) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 28009c8b-4cb8-4289-bff4-f8723c7c24d3:b741e3967a4e4e77a6162c3f78851d24
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.28ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.25ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Creating new directory in 
+[NotebookApp | INFO] Creating new notebook in /Week 1 lectures
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.00ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Untitled.ipynb?kernel_name=python3
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.84ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Kernel started: dda73c4d-5203-4af6-bfde-bf5e8090ab02
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel dda73c4d-5203-4af6-bfde-bf5e8090ab02) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Python functions.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Python functions.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Python functions.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Python functions.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Python functions.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Python functions.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Python functions.ipynb
+[NotebookApp | INFO] Starting buffering for dda73c4d-5203-4af6-bfde-bf5e8090ab02:365b217d501d4c229baed87ec673ca2a
+[NotebookApp | INFO] 302 GET / (10.0.0.30) 0.51ms
+[NotebookApp | INFO] 302 GET / (10.0.0.103) 0.51ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.27ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Python%20functions.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.26ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Python%20functions.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel dda73c4d-5203-4af6-bfde-bf5e8090ab02) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Python functions.ipynb
+[NotebookApp | INFO] Starting buffering for dda73c4d-5203-4af6-bfde-bf5e8090ab02:1dd01591f7294f40810988b3b2a44b2e
+[NotebookApp | INFO] 302 GET / (10.0.0.53) 0.48ms
+[NotebookApp | INFO] 302 GET / (10.0.0.40) 0.46ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.49ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Python%20functions.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.13ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Python%20functions.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel dda73c4d-5203-4af6-bfde-bf5e8090ab02) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Python functions.ipynb
+[NotebookApp | INFO] Starting buffering for dda73c4d-5203-4af6-bfde-bf5e8090ab02:94375afe12464aef9192a0929b090f89
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: 28009c8b-4cb8-4289-bff4-f8723c7c24d3
+[NotebookApp | INFO] Kernel shutdown: dda73c4d-5203-4af6-bfde-bf5e8090ab02
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://7de29dd84854:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.98) 0.59ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 6.60ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Python%20functions.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 2.81ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Python%20functions.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook Week 1 lectures/Python functions.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: f6cdfaac-6d0a-4d4b-ac3c-af03d59e06a0
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Python functions.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Python functions.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel f6cdfaac-6d0a-4d4b-ac3c-af03d59e06a0) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for f6cdfaac-6d0a-4d4b-ac3c-af03d59e06a0:dacde5d716b648e897a5fd036f15f648
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.39ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Creating new notebook in /Week 1 lectures
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.37ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Untitled.ipynb?kernel_name=python3
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.26ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Kernel started: 5dc58dd9-7b9c-46cc-899a-7125774e0270
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 5dc58dd9-7b9c-46cc-899a-7125774e0270) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Untitled.ipynb
+[NotebookApp | INFO] Starting buffering for 5dc58dd9-7b9c-46cc-899a-7125774e0270:2a8ef265c4aa412986f7aad8b66f937c
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Python Types and sequences.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.64ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.26ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Kernel shutdown: 5dc58dd9-7b9c-46cc-899a-7125774e0270
+[NotebookApp | WARNING] delete /Week 1 lectures/Python Types and sequences.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.02ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Python%20functions.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.23ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Python%20functions.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Python functions.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Python functions.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Python functions.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel f6cdfaac-6d0a-4d4b-ac3c-af03d59e06a0) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | INFO] Starting buffering for f6cdfaac-6d0a-4d4b-ac3c-af03d59e06a0:28316815035a42188ac7cba4bc3879ec
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel f6cdfaac-6d0a-4d4b-ac3c-af03d59e06a0) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for f6cdfaac-6d0a-4d4b-ac3c-af03d59e06a0:28316815035a42188ac7cba4bc3879ec
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: f6cdfaac-6d0a-4d4b-ac3c-af03d59e06a0
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://544daf5ce540:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.120) 0.57ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 5.48ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Week%201%20exrecises%20from%20lectures.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.05ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Week%201%20exrecises%20from%20lectures.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 0372a994-b53e-4018-925e-487429746dcc
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 0372a994-b53e-4018-925e-487429746dcc) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.19ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.27ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 0372a994-b53e-4018-925e-487429746dcc:7b899062002b49f58b84efcf8ce46881
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 0372a994-b53e-4018-925e-487429746dcc
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://720d290b8363:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.53) 0.96ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /notebooks/Week%201%20lectures/Python%20Types%20and%20sequences.ipynb (1.178.250.47): No such file or directory: Week 1 lectures/Python Types and sequences.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Week%201%20lectures/Python%20Types%20and%20sequences.ipynb (1.178.250.47) 13.05ms referer=https://www.coursera.org/
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.33ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Python%20Types%20and%20sequences.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.94ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Python%20Types%20and%20sequences.ipynb
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://3e54b7fd8f10:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.98) 0.61ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /notebooks/Week%201%20lectures/Python%20Types%20and%20sequences.ipynb (1.178.250.47): No such file or directory: Week 1 lectures/Python Types and sequences.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Week%201%20lectures/Python%20Types%20and%20sequences.ipynb (1.178.250.47) 11.93ms referer=https://www.coursera.org/
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.57ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Python%20Types%20and%20sequences.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.25ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Python%20Types%20and%20sequences.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.08ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.19ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Week%201%20exrecises%20from%20lectures.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.33ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Week%201%20exrecises%20from%20lectures.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: e1cebef9-5d3c-48cb-a6d1-371dba85e499
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel e1cebef9-5d3c-48cb-a6d1-371dba85e499) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for e1cebef9-5d3c-48cb-a6d1-371dba85e499:cd0c014368734a298fcc3845c33b70ec
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.21ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.34ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Creating new notebook in /Week 1 lectures
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.11ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Untitled.ipynb?kernel_name=python3
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.81ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Kernel started: a34e6588-26f4-43f6-a893-dd9713429eac
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel a34e6588-26f4-43f6-a893-dd9713429eac) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.15ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.38ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Numpy library.ipynb
+[NotebookApp | INFO] Starting buffering for a34e6588-26f4-43f6-a893-dd9713429eac:a54207fa54da4d418d4b4bd34b3a3aa4
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: e1cebef9-5d3c-48cb-a6d1-371dba85e499
+[NotebookApp | INFO] Kernel shutdown: a34e6588-26f4-43f6-a893-dd9713429eac
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://042058c0faa1:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.103) 0.55ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 5.28ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Creating new notebook in /Week 1 lectures
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 0.94ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Kernel started: b2999d80-2f99-4dd7-9793-7cbaa78fff54
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Untitled.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel b2999d80-2f99-4dd7-9793-7cbaa78fff54) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexs).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.53ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.30ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.24ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Week%201%20exrecises%20from%20lectures.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.32ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Week%201%20exrecises%20from%20lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: b02fa27c-684f-4766-bcd1-a478abfdd06b
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Week 1 exrecises from lectures.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel b02fa27c-684f-4766-bcd1-a478abfdd06b) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | INFO] Starting buffering for b2999d80-2f99-4dd7-9793-7cbaa78fff54:37a6f0aab3fd446b8fed23f020c2f877
+[NotebookApp | INFO] Starting buffering for b02fa27c-684f-4766-bcd1-a478abfdd06b:79bbac8429ce4ed181070d571a16515f
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: b2999d80-2f99-4dd7-9793-7cbaa78fff54
+[NotebookApp | INFO] Kernel shutdown: b02fa27c-684f-4766-bcd1-a478abfdd06b
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://1fd6c100f109:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.40) 0.55ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 5.38ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Manipulating%20Text%20with%20Regular%20Expressions%20(Regexes).ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.13ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Manipulating%20Text%20with%20Regular%20Expressions%20(Regexes).ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 176c4020-ae04-4ad8-ac91-36e7b9db10a2
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 176c4020-ae04-4ad8-ac91-36e7b9db10a2) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | WARNING] Notebook Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 176c4020-ae04-4ad8-ac91-36e7b9db10a2:9d200d7cdd454ce79f5ec6788ca97604
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.08ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Creating new directory in 
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.07ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Creating new directory in 
+[NotebookApp | INFO] Creating new notebook in /Week 1/Week 1 Evaluation
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.29ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201/Week%201%20Evaluation/Untitled.ipynb?kernel_name=python3
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.28ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201/Week%201%20Evaluation/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Kernel started: 386a37ef-cd21-491f-b0ac-9f520f0247f9
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 386a37ef-cd21-491f-b0ac-9f520f0247f9) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 1/Week 1 Evaluation/Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Week 1/Week 1 Evaluation/Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 1/Week 1 Evaluation/Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 1/Week 1 Evaluation/Quiz.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.05ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.23ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.83ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201/Week%201%20lectures/Numpy%20library.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.17ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201/Week%201%20lectures/Numpy%20library.ipynb
+[NotebookApp | WARNING] Notebook Week 1/Week 1 lectures/Numpy library.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: ff4f5abc-87ef-42a1-948b-7965499b5c3b
+[NotebookApp | INFO] Saving file at /Week 1/Week 1 lectures/Numpy library.ipynb
+[NotebookApp | WARNING] Notebook Week 1/Week 1 lectures/Numpy library.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel ff4f5abc-87ef-42a1-948b-7965499b5c3b) to 5.3 (client).
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.08ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.26ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 0.98ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201/Week%201%20lectures/Numpy%20library.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.76ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201/Week%201%20lectures/Numpy%20library.ipynb
+[NotebookApp | WARNING] Notebook Week 1/Week 1 lectures/Numpy library.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1/Week 1 lectures/Numpy library.ipynb
+[NotebookApp | WARNING] Notebook Week 1/Week 1 lectures/Numpy library.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel ff4f5abc-87ef-42a1-948b-7965499b5c3b) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 1/Week 1 Evaluation/Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 1/Week 1 Evaluation/Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 1/Week 1 Evaluation/Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 1/Week 1 Evaluation/Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 1/Week 1 Evaluation/Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 1/Week 1 Evaluation/Quiz.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.17ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.31ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.27ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201/Week%201%20lectures/Manipulating%20Text%20with%20Regular%20Expressions%20(Regexes).ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.90ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201/Week%201%20lectures/Manipulating%20Text%20with%20Regular%20Expressions%20(Regexes).ipynb
+[NotebookApp | WARNING] Notebook Week 1/Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 88622544-91b4-4413-9af5-7e7239040094
+[NotebookApp | INFO] Saving file at /Week 1/Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | WARNING] Notebook Week 1/Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 88622544-91b4-4413-9af5-7e7239040094) to 5.3 (client).
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.13ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.25ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 0.97ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201/Week%201%20lectures/Manipulating%20Text%20with%20Regular%20Expressions%20(Regexes).ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.10ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201/Week%201%20lectures/Manipulating%20Text%20with%20Regular%20Expressions%20(Regexes).ipynb
+[NotebookApp | WARNING] Notebook Week 1/Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1/Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | WARNING] Notebook Week 1/Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 88622544-91b4-4413-9af5-7e7239040094) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 386a37ef-cd21-491f-b0ac-9f520f0247f9:342d961b3a0444318e6523cc00be6f93
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.04ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Creating new directory in 
+[NotebookApp | INFO] Creating new directory in /Week 2
+[NotebookApp | INFO] Creating new notebook in /Week 2/Week 2 Lectures
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.05ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/Untitled.ipynb?kernel_name=python3
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.63ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Kernel started: 81368825-aad3-4676-ade7-347329e10c5c
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Untitled.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 81368825-aad3-4676-ade7-347329e10c5c) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.06ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.26ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.10ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201/Week%201%20lectures/Manipulating%20Text%20with%20Regular%20Expressions%20(Regexes).ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.00ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201/Week%201%20lectures/Manipulating%20Text%20with%20Regular%20Expressions%20(Regexes).ipynb
+[NotebookApp | WARNING] Notebook Week 1/Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 1/Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | WARNING] Notebook Week 1/Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 88622544-91b4-4413-9af5-7e7239040094) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Week%201%20lectures/Week%201%20exrecises%20from%20lectures.ipynb (1.178.250.47): No such file or directory: Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Week%201%20lectures/Week%201%20exrecises%20from%20lectures.ipynb (1.178.250.47) 3.40ms referer=https://dpkjiaol.labs.coursera.org/tree/Week%201%20lectures
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 0.98ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Week%201%20exrecises%20from%20lectures.ipynb
+[NotebookApp | WARNING] 404 GET /api/contents/Week%201%20lectures/Week%201%20exrecises%20from%20lectures.ipynb?type=notebook&_=1666690621380 (1.178.250.47): No such file or directory: Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] No such file or directory: Week 1 lectures/Week 1 exrecises from lectures.ipynb
+[NotebookApp | WARNING] 404 GET /api/contents/Week%201%20lectures/Week%201%20exrecises%20from%20lectures.ipynb?type=notebook&_=1666690621380 (1.178.250.47) 0.86ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201%20lectures/Week%201%20exrecises%20from%20lectures.ipynb
+[NotebookApp | INFO] Starting buffering for ff4f5abc-87ef-42a1-948b-7965499b5c3b:52d087fb40854d4188532423d19ac93d
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Starting buffering for 88622544-91b4-4413-9af5-7e7239040094:7eca1edfc7844eb28b0a7ebb302e537a
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Starting buffering for 81368825-aad3-4676-ade7-347329e10c5c:d5ff69a863b440e385d85ba198fbc994
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 81368825-aad3-4676-ade7-347329e10c5c) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 81368825-aad3-4676-ade7-347329e10c5c:d5ff69a863b440e385d85ba198fbc994
+[NotebookApp | INFO] Starting buffering for 81368825-aad3-4676-ade7-347329e10c5c:d5ff69a863b440e385d85ba198fbc994
+[NotebookApp | INFO] 302 GET / (10.0.0.98) 0.51ms
+[NotebookApp | INFO] 302 GET / (10.0.0.53) 0.48ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.28ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/Introduction%20to%20Pandas%20and%20Series%20Data.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.14ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/Introduction%20to%20Pandas%20and%20Series%20Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 81368825-aad3-4676-ade7-347329e10c5c) to 5.3 (client).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 5 kernels
+[NotebookApp | INFO] Kernel shutdown: 176c4020-ae04-4ad8-ac91-36e7b9db10a2
+[NotebookApp | INFO] Kernel shutdown: 386a37ef-cd21-491f-b0ac-9f520f0247f9
+[NotebookApp | INFO] Kernel shutdown: ff4f5abc-87ef-42a1-948b-7965499b5c3b
+[NotebookApp | INFO] Kernel shutdown: 88622544-91b4-4413-9af5-7e7239040094
+[NotebookApp | INFO] Kernel shutdown: 81368825-aad3-4676-ade7-347329e10c5c
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://be91e71bf920:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.101) 0.57ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 6.32ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/Introduction%20to%20Pandas%20and%20Series%20Data.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.40ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/Introduction%20to%20Pandas%20and%20Series%20Data.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: af196b0d-f956-4b17-8039-dbdd34db8c19
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel af196b0d-f956-4b17-8039-dbdd34db8c19) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | WARNING] Notebook Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for af196b0d-f956-4b17-8039-dbdd34db8c19:fb830479a5404429981e10eb86012e07
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.30ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.23ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Creating new notebook in /Week 2/Week 2 Lectures
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.24ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/Untitled.ipynb?kernel_name=python3
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.16ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Kernel started: b3e99f8b-1858-4b22-bd8e-4f023f3369f5
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel b3e99f8b-1858-4b22-bd8e-4f023f3369f5) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.34ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.25ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.13ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/Introduction%20to%20Pandas%20and%20Series%20Data.ipynb
+[NotebookApp | WARNING] Notebook Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | WARNING] Notebook Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel af196b0d-f956-4b17-8039-dbdd34db8c19) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for af196b0d-f956-4b17-8039-dbdd34db8c19:fedacd8ad397435c8f049096b6f4d4f9
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | INFO] Starting buffering for b3e99f8b-1858-4b22-bd8e-4f023f3369f5:d22199e65f6b45db81bb495da89572da
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.79ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Creating new notebook in /Week 2/Week 2 Lectures
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.84ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/Untitled.ipynb?kernel_name=python3
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.20ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Kernel started: ab0d1bf4-9483-4c84-aa9d-85c927a6553b
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Untitled.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel ab0d1bf4-9483-4c84-aa9d-85c927a6553b) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Datarame indexing and loading.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Datarame indexing and loading.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.35ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.29ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Datarame indexing and loading.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Datarame indexing and loading.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.06ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201/Week%201%20lectures/Numpy%20library.ipynb
+[NotebookApp | WARNING] Notebook Week 1/Week 1 lectures/Numpy library.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 3498b612-bb11-4523-b6a1-052fc3d4ef04
+[NotebookApp | INFO] Saving file at /Week 1/Week 1 lectures/Numpy library.ipynb
+[NotebookApp | WARNING] Notebook Week 1/Week 1 lectures/Numpy library.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 3498b612-bb11-4523-b6a1-052fc3d4ef04) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Datarame indexing and loading.ipynb
+[NotebookApp | INFO] Starting buffering for 3498b612-bb11-4523-b6a1-052fc3d4ef04:a1b74ad08bb34dd08c0dec91fb10c19a
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.55ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Datarame indexing and loading.ipynb
+[NotebookApp | INFO] Starting buffering for ab0d1bf4-9483-4c84-aa9d-85c927a6553b:531bcb2a5d4b4e06898579910ac08e7b
+[NotebookApp | INFO] Kernel restarted: ab0d1bf4-9483-4c84-aa9d-85c927a6553b
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel ab0d1bf4-9483-4c84-aa9d-85c927a6553b) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for ab0d1bf4-9483-4c84-aa9d-85c927a6553b:531bcb2a5d4b4e06898579910ac08e7b
+[NotebookApp | INFO] Replaying 5 buffered messages
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Datarame indexing and loading.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.36ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201/Week%201%20lectures/Numpy%20library.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.14ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201/Week%201%20lectures/Numpy%20library.ipynb
+[NotebookApp | WARNING] Notebook Week 1/Week 1 lectures/Numpy library.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 3498b612-bb11-4523-b6a1-052fc3d4ef04) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 1/Week 1 lectures/Numpy library.ipynb
+[NotebookApp | WARNING] Notebook Week 1/Week 1 lectures/Numpy library.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Datarame indexing and loading.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Datarame indexing and loading.ipynb
+[NotebookApp | INFO] Starting buffering for ab0d1bf4-9483-4c84-aa9d-85c927a6553b:531bcb2a5d4b4e06898579910ac08e7b
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.10ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Kernel shutdown: ab0d1bf4-9483-4c84-aa9d-85c927a6553b
+[NotebookApp | WARNING] delete /Week 2/Week 2 Lectures/Datarame indexing and loading.ipynb
+[NotebookApp | INFO] Starting buffering for 3498b612-bb11-4523-b6a1-052fc3d4ef04:a7a41b7edcf44141a7420f73630d471f
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 3 kernels
+[NotebookApp | INFO] Kernel shutdown: af196b0d-f956-4b17-8039-dbdd34db8c19
+[NotebookApp | INFO] Kernel shutdown: b3e99f8b-1858-4b22-bd8e-4f023f3369f5
+[NotebookApp | INFO] Kernel shutdown: 3498b612-bb11-4523-b6a1-052fc3d4ef04
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://e57548b8f894:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.24) 0.62ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 5.70ms referer=https://dpkjiaol.labs.coursera.org/tree/Week%202/Week%202%20Lectures
+[NotebookApp | WARNING] 404 POST /api/contents/Week%25202/Week%25202%2520Lectures (1.178.250.47): No such directory: /Week%202/Week%202%20Lectures
+[NotebookApp | WARNING] No such directory: /Week%%202/Week%%202%%20Lectures
+[NotebookApp | WARNING] 404 POST /api/contents/Week%25202/Week%25202%2520Lectures (1.178.250.47) 5.19ms referer=https://dpkjiaol.labs.coursera.org/tree/Week%202/Week%202%20Lectures
+[NotebookApp | INFO] 302 GET / (10.0.0.40) 0.47ms
+[NotebookApp | INFO] 302 GET / (10.0.0.101) 0.48ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.28ms referer=https://dpkjiaol.labs.coursera.org/tree/Week%202/Week%202%20Lectures
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.29ms referer=https://dpkjiaol.labs.coursera.org/tree/Week%202/Week%202%20Lectures
+[NotebookApp | WARNING] 404 POST /api/contents/Week%25202/Week%25202%2520Lectures (1.178.250.47): No such directory: /Week%202/Week%202%20Lectures
+[NotebookApp | WARNING] No such directory: /Week%%202/Week%%202%%20Lectures
+[NotebookApp | WARNING] 404 POST /api/contents/Week%25202/Week%25202%2520Lectures (1.178.250.47) 1.31ms referer=https://dpkjiaol.labs.coursera.org/tree/Week%202/Week%202%20Lectures
+[NotebookApp | INFO] Creating new notebook in /Week 2/Week 2 Lectures
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.77ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/Untitled.ipynb?kernel_name=python3
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.13ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Kernel started: e713207e-a0aa-4ef9-8c65-95972d7ed3ec
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel e713207e-a0aa-4ef9-8c65-95972d7ed3ec) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Indexing DataFrames.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Indexing DataFrames.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Indexing DataFrames.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Indexing DataFrames.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Indexing DataFrames.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Indexing DataFrames.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Indexing DataFrames.ipynb
+[NotebookApp | INFO] Starting buffering for e713207e-a0aa-4ef9-8c65-95972d7ed3ec:11dc6d687b2b4639812e605a72b1c123
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.08ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Creating new notebook in /Week 2/Week 2 Lectures
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.02ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/Untitled.ipynb?kernel_name=python3
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.23ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Kernel started: ba8562c6-bbed-43b3-a5cb-fd658c17535c
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel ba8562c6-bbed-43b3-a5cb-fd658c17535c) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Handeling missing Values.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Handeling missing Values.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Handeling missing Values.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Handeling missing Values.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Handeling missing Values.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Handeling missing Values.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Handeling missing Values.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Handeling missing Values.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Handeling missing Values.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Handeling missing Values.ipynb
+[NotebookApp | INFO] Starting buffering for ba8562c6-bbed-43b3-a5cb-fd658c17535c:11bbfd58589843c18b12ba1cad2b87bb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.06ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 0.99ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/DataFrame%20Data%20Structure.ipynb
+[NotebookApp | WARNING] Notebook Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: f9d81bb0-bc80-4dc2-a065-ee7326b90c46
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | WARNING] Notebook Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel f9d81bb0-bc80-4dc2-a065-ee7326b90c46) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for f9d81bb0-bc80-4dc2-a065-ee7326b90c46:bb5d181d9023441489c3f9659f3598e2
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.24ms referer=https://dpkjiaol.labs.coursera.org/tree/Week%202/Week%202%20Lectures
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.22ms referer=https://dpkjiaol.labs.coursera.org/tree/Week%202/Week%202%20Lectures
+[NotebookApp | WARNING] 404 POST /api/contents/Week%25202/Week%25202%2520Lectures (1.178.250.47): No such directory: /Week%202/Week%202%20Lectures
+[NotebookApp | WARNING] No such directory: /Week%%202/Week%%202%%20Lectures
+[NotebookApp | WARNING] 404 POST /api/contents/Week%25202/Week%25202%2520Lectures (1.178.250.47) 1.22ms referer=https://dpkjiaol.labs.coursera.org/tree/Week%202/Week%202%20Lectures
+[NotebookApp | INFO] 302 GET / (10.0.0.40) 0.69ms
+[NotebookApp | INFO] 302 GET / (10.0.0.101) 0.64ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.46ms referer=https://dpkjiaol.labs.coursera.org/tree/Week%202/Week%202%20Lectures
+[NotebookApp | WARNING] 404 POST /api/contents/Week%25202/Week%25202%2520Lectures (1.178.250.47): No such directory: /Week%202/Week%202%20Lectures
+[NotebookApp | WARNING] No such directory: /Week%%202/Week%%202%%20Lectures
+[NotebookApp | WARNING] 404 POST /api/contents/Week%25202/Week%25202%2520Lectures (1.178.250.47) 1.63ms referer=https://dpkjiaol.labs.coursera.org/tree/Week%202/Week%202%20Lectures
+[NotebookApp | INFO] Creating new notebook in /Week 2/Week 2 Lectures
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.05ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/Untitled.ipynb?kernel_name=python3
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.14ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Kernel started: 079b5c2e-3160-4c7a-8c0c-05bbbd8a9d65
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 079b5c2e-3160-4c7a-8c0c-05bbbd8a9d65) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/More on DataFrames functions.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/More on DataFrames functions.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/More on DataFrames functions.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/More on DataFrames functions.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/More on DataFrames functions.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/More on DataFrames functions.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/More on DataFrames functions.ipynb
+[NotebookApp | INFO] Starting buffering for 079b5c2e-3160-4c7a-8c0c-05bbbd8a9d65:2f329db2ee014136b10c45b45e778965
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.07ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Creating new directory in /Week 2
+[NotebookApp | INFO] Creating new notebook in /Week 2/Week 2 Quiz
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.04ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Quiz/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Kernel started: e993d45f-8d73-41c3-9173-af9f03565027
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Quiz/Untitled.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel e993d45f-8d73-41c3-9173-af9f03565027) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Quiz/Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Quiz/Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Quiz/Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Quiz/Quiz.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.15ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.28ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.41ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/DataFrame%20Data%20Structure.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.23ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/DataFrame%20Data%20Structure.ipynb
+[NotebookApp | WARNING] Notebook Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | WARNING] Notebook Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel f9d81bb0-bc80-4dc2-a065-ee7326b90c46) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Quiz/Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Quiz/Quiz.ipynb
+[NotebookApp | INFO] Starting buffering for f9d81bb0-bc80-4dc2-a065-ee7326b90c46:915f20d1b8d249999a88f7d7a938900b
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.26ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.20ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.08ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/Indexing%20DataFrames.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.11ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/Indexing%20DataFrames.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Indexing DataFrames.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel e713207e-a0aa-4ef9-8c65-95972d7ed3ec) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for e713207e-a0aa-4ef9-8c65-95972d7ed3ec:60a5a3432d6f41e48dff474e6c9ae86f
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.26ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.15ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.14ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/Handeling%20missing%20Values.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.05ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/Handeling%20missing%20Values.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Handeling missing Values.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel ba8562c6-bbed-43b3-a5cb-fd658c17535c) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Quiz/Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Quiz/Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Quiz/Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Quiz/Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Quiz/Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Quiz/Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Quiz/Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Quiz/Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Quiz/Quiz.ipynb
+[NotebookApp | INFO] Starting buffering for ba8562c6-bbed-43b3-a5cb-fd658c17535c:3944593c801245579453cb42b392b38d
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Quiz/Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Quiz/Quiz.ipynb
+[NotebookApp | INFO] Starting buffering for e993d45f-8d73-41c3-9173-af9f03565027:b7bcd39ea77940dd8d61bd22f9eee474
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 5 kernels
+[NotebookApp | INFO] Kernel shutdown: e713207e-a0aa-4ef9-8c65-95972d7ed3ec
+[NotebookApp | INFO] Kernel shutdown: ba8562c6-bbed-43b3-a5cb-fd658c17535c
+[NotebookApp | INFO] Kernel shutdown: f9d81bb0-bc80-4dc2-a065-ee7326b90c46
+[NotebookApp | INFO] Kernel shutdown: 079b5c2e-3160-4c7a-8c0c-05bbbd8a9d65
+[NotebookApp | INFO] Kernel shutdown: e993d45f-8d73-41c3-9173-af9f03565027
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://13a83c2be884:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.30) 0.69ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 5.92ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Quiz/Quiz.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.16ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Quiz/Quiz.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook Week 2/Week 2 Quiz/Quiz.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 735b04ff-b459-46af-ba71-28ad9abb2faf
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 735b04ff-b459-46af-ba71-28ad9abb2faf) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Quiz/Quiz.ipynb
+[NotebookApp | WARNING] Notebook Week 2/Week 2 Quiz/Quiz.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 735b04ff-b459-46af-ba71-28ad9abb2faf:1649d128f9524f79aa3d75a743e07c5e
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 735b04ff-b459-46af-ba71-28ad9abb2faf
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://83ec43881d8c:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.53) 0.57ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 5.99ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Quiz/Quiz.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.18ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Quiz/Quiz.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook Week 2/Week 2 Quiz/Quiz.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: dc500925-f1c3-4c10-aa1f-b035c61cbdb4
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel dc500925-f1c3-4c10-aa1f-b035c61cbdb4) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Quiz/Quiz.ipynb
+[NotebookApp | WARNING] Notebook Week 2/Week 2 Quiz/Quiz.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for dc500925-f1c3-4c10-aa1f-b035c61cbdb4:fc078d61798c474bb89d56d373d38c6f
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.06ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Creating new directory in 
+[NotebookApp | INFO] Creating new notebook in /Week 3
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.31ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Untitled.ipynb?kernel_name=python3
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.21ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Kernel started: a1be1690-74b3-49c5-8ce2-b024b9f22feb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel a1be1690-74b3-49c5-8ce2-b024b9f22feb) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 3/Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | INFO] Starting buffering for a1be1690-74b3-49c5-8ce2-b024b9f22feb:9dc9ae9e970343faa7908d17c89dc7ff
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.12ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Creating new notebook in /Week 3
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.13ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Untitled.ipynb?kernel_name=python3
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.27ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Kernel started: cf426d11-cf41-4b1a-975f-47a0dc03ad72
+[NotebookApp | INFO] Saving file at /Week 3/Untitled.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel cf426d11-cf41-4b1a-975f-47a0dc03ad72) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 3/Pandas Idioms.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pandas Idioms.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pandas Idioms.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pandas Idioms.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pandas Idioms.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pandas Idioms.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pandas Idioms.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pandas Idioms.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pandas Idioms.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pandas Idioms.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pandas Idioms.ipynb
+[NotebookApp | INFO] Starting buffering for cf426d11-cf41-4b1a-975f-47a0dc03ad72:cc68ec71207c4785b05d10a3e3972bb5
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.31ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.27ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 3 kernels
+[NotebookApp | INFO] Kernel shutdown: dc500925-f1c3-4c10-aa1f-b035c61cbdb4
+[NotebookApp | INFO] Kernel shutdown: a1be1690-74b3-49c5-8ce2-b024b9f22feb
+[NotebookApp | INFO] Kernel shutdown: cf426d11-cf41-4b1a-975f-47a0dc03ad72
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://ba97a203ba62:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.103) 0.61ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 5.35ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/More%20Data%20Processing%20with%20Pandas.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook Week 3/More Data Processing with Pandas.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 47373c31-5173-425a-8b4c-7bb46a407b7a
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 47373c31-5173-425a-8b4c-7bb46a407b7a) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | WARNING] Notebook Week 3/More Data Processing with Pandas.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 47373c31-5173-425a-8b4c-7bb46a407b7a:af97ae60fd20430e8a0bbafeaf601875
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 47373c31-5173-425a-8b4c-7bb46a407b7a
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://7ec170147a47:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.40) 0.57ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 6.30ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/More%20Data%20Processing%20with%20Pandas.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.51ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/More%20Data%20Processing%20with%20Pandas.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook Week 3/More Data Processing with Pandas.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 2b7d4fe9-c4c0-4081-956b-b42850477746
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 2b7d4fe9-c4c0-4081-956b-b42850477746) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | WARNING] Notebook Week 3/More Data Processing with Pandas.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 2b7d4fe9-c4c0-4081-956b-b42850477746:2893a3a4510d427fb27a14d0c292c727
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 2b7d4fe9-c4c0-4081-956b-b42850477746) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 2b7d4fe9-c4c0-4081-956b-b42850477746:2893a3a4510d427fb27a14d0c292c727
+[NotebookApp | INFO] Starting buffering for 2b7d4fe9-c4c0-4081-956b-b42850477746:2893a3a4510d427fb27a14d0c292c727
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.30ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.29ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Creating new notebook in /Week 3
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.71ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Untitled.ipynb?kernel_name=python3
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.29ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Kernel started: e6f88cb0-97a9-4751-ad49-95d5c10044ed
+[NotebookApp | INFO] Saving file at /Week 3/Untitled.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel e6f88cb0-97a9-4751-ad49-95d5c10044ed) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.07ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.22ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Copying resources/week-3/datasets/census.csv to /resources/week-3/datasets
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.24ms referer=https://dpkjiaol.labs.coursera.org/edit/resources/week-3/datasets/census-Copy1.csv
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.16ms referer=https://dpkjiaol.labs.coursera.org/edit/resources/week-3/datasets/census-Copy1.csv
+[NotebookApp | WARNING] 500 PATCH /api/contents/resources/week-3/datasets/census-Copy1.csv (1.178.250.47): Unknown error renaming file: resources/week-3/datasets/census-Copy1.csv [Errno 2] No such file or directory: '/home/jovyan/work/notebooks/Week 3/Group by.ipynb/census-Copy1.csv'
+[NotebookApp | WARNING] Unknown error renaming file: resources/week-3/datasets/census-Copy1.csv [Errno 2] No such file or directory: '/home/jovyan/work/notebooks/Week 3/Group by.ipynb/census-Copy1.csv'
+[NotebookApp | ERROR] {
+      "X-Forwarded-For": "1.178.250.47",
+      "X-Forwarded-Proto": "https",
+      "X-Forwarded-Port": "443",
+      "Host": "dpkjiaol.labs.coursera.org",
+      "X-Amzn-Trace-Id": "Root=1-636239bd-390b26355238065f7dd15bc1",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0",
+      "Accept": "application/json, text/javascript, */*;q=0.01",
+      "Accept-Language": "es-ES, es;q=0.8, en-US;q=0.5, en;q=0.3",
+      "Accept-Encoding": "gzip, deflate, br",
+      "X-Xsrftoken": "2|8c2c3e64|2bc28409aa61eba3c8d20afca4615faa|1666083385",
+      "X-Requested-With": "XMLHttpRequest",
+      "Origin": "https://dpkjiaol.labs.coursera.org",
+      "Referer": "https://dpkjiaol.labs.coursera.org/tree/resources/week-3/datasets",
+      "Sec-Fetch-Dest": "empty",
+      "Sec-Fetch-Mode": "cors",
+      "Sec-Fetch-Site": "same-origin",
+      "Cookie": "CSRF3-Token=1667639037.xcLNt3KWo9YoQwy1; __204u=4137562096-1666035347245; __204r=https%3A%2F%2Fmail.google.com%2F; _xsrf=2|8c2c3e64|2bc28409aa61eba3c8d20afca4615faa|1666083385; profileconsent=eyI0NjAyMjQ3OCI6eyJjY3BhUmVxdWlyZWQiOmZhbHNlLCJnZHByUmVxdWlyZWQiOmZhbHNlfX0=; COURSERA_SUBMISSION_TOKEN=P0LfZrDykZAMG3MwtlN1; dpkjiaol-wkspc-iframe=true; __400v=924ac50e-e5b4-4f3b-dd0f-d0908b1df3a6; __400vt=1667381688163",
+      "Content-Type": "application/json",
+      "Content-Length": "60"
+    }
+[NotebookApp | ERROR] 500 PATCH /api/contents/resources/week-3/datasets/census-Copy1.csv (1.178.250.47) 5.82ms referer=https://dpkjiaol.labs.coursera.org/tree/resources/week-3/datasets
+[NotebookApp | WARNING] 500 PATCH /api/contents/resources/week-3/datasets/census-Copy1.csv (1.178.250.47): Unknown error renaming file: resources/week-3/datasets/census-Copy1.csv [Errno 2] No such file or directory: '/home/jovyan/work/notebooks/Week 3/census-Copy1.csv'
+[NotebookApp | WARNING] Unknown error renaming file: resources/week-3/datasets/census-Copy1.csv [Errno 2] No such file or directory: '/home/jovyan/work/notebooks/Week 3/census-Copy1.csv'
+[NotebookApp | ERROR] {
+      "X-Forwarded-For": "1.178.250.47",
+      "X-Forwarded-Proto": "https",
+      "X-Forwarded-Port": "443",
+      "Host": "dpkjiaol.labs.coursera.org",
+      "X-Amzn-Trace-Id": "Root=1-636239ce-651194f615ca4f180e511cd1",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0",
+      "Accept": "application/json, text/javascript, */*;q=0.01",
+      "Accept-Language": "es-ES, es;q=0.8, en-US;q=0.5, en;q=0.3",
+      "Accept-Encoding": "gzip, deflate, br",
+      "X-Xsrftoken": "2|8c2c3e64|2bc28409aa61eba3c8d20afca4615faa|1666083385",
+      "X-Requested-With": "XMLHttpRequest",
+      "Origin": "https://dpkjiaol.labs.coursera.org",
+      "Referer": "https://dpkjiaol.labs.coursera.org/tree/resources/week-3/datasets",
+      "Sec-Fetch-Dest": "empty",
+      "Sec-Fetch-Mode": "cors",
+      "Sec-Fetch-Site": "same-origin",
+      "Cookie": "CSRF3-Token=1667639037.xcLNt3KWo9YoQwy1; __204u=4137562096-1666035347245; __204r=https%3A%2F%2Fmail.google.com%2F; _xsrf=2|8c2c3e64|2bc28409aa61eba3c8d20afca4615faa|1666083385; profileconsent=eyI0NjAyMjQ3OCI6eyJjY3BhUmVxdWlyZWQiOmZhbHNlLCJnZHByUmVxdWlyZWQiOmZhbHNlfX0=; COURSERA_SUBMISSION_TOKEN=P0LfZrDykZAMG3MwtlN1; dpkjiaol-wkspc-iframe=true; __400v=924ac50e-e5b4-4f3b-dd0f-d0908b1df3a6; __400vt=1667381688163",
+      "Content-Type": "application/json",
+      "Content-Length": "45"
+    }
+[NotebookApp | ERROR] 500 PATCH /api/contents/resources/week-3/datasets/census-Copy1.csv (1.178.250.47) 3.61ms referer=https://dpkjiaol.labs.coursera.org/tree/resources/week-3/datasets
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.14ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.22ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Creating new directory in /Week 3
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Starting buffering for e6f88cb0-97a9-4751-ad49-95d5c10044ed:be832ca1f2664770b2c922c17f495d01
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.10ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.27ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Group%20by.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.19ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Group%20by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel e6f88cb0-97a9-4751-ad49-95d5c10044ed) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.11ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.23ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Copying resources/week-3/datasets/listings.csv to /resources/week-3/datasets
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.17ms referer=https://dpkjiaol.labs.coursera.org/edit/resources/week-3/datasets/listings-Copy1.csv
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.08ms referer=https://dpkjiaol.labs.coursera.org/edit/resources/week-3/datasets/listings-Copy1.csv
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | INFO] Starting buffering for e6f88cb0-97a9-4751-ad49-95d5c10044ed:f3fc3250c88a40c087477170d381a73e
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.07ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Creating new notebook in /Week 3
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.02ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Untitled.ipynb?kernel_name=python3
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.21ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Kernel started: 82391101-fa2d-42bd-b639-2df3a0aea088
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 82391101-fa2d-42bd-b639-2df3a0aea088) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 3/Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Scales.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Scales.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Scales.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Scales.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Scales.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Scales.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Scales.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Scales.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Scales.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Scales.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Scales.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Scales.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Scales.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Scales.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Scales.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Scales.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Scales.ipynb
+[NotebookApp | INFO] Starting buffering for 82391101-fa2d-42bd-b639-2df3a0aea088:c18a0d52724347ff81bc6362afaaa074
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 3 kernels
+[NotebookApp | INFO] Kernel shutdown: 2b7d4fe9-c4c0-4081-956b-b42850477746
+[NotebookApp | INFO] Kernel shutdown: e6f88cb0-97a9-4751-ad49-95d5c10044ed
+[NotebookApp | INFO] Kernel shutdown: 82391101-fa2d-42bd-b639-2df3a0aea088
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://7138fe6c9dd2:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.24) 0.59ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 5.96ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Scales.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.52ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Scales.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook Week 3/Scales.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: ee25bc48-8914-4a88-8501-dc7092ce8456
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel ee25bc48-8914-4a88-8501-dc7092ce8456) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 3/Scales.ipynb
+[NotebookApp | WARNING] Notebook Week 3/Scales.ipynb is not trusted
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: ee25bc48-8914-4a88-8501-dc7092ce8456
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://08ebacf8ea18:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.103) 0.60ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 6.53ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Scales.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.30ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Scales.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook Week 3/Scales.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 979b5277-5119-4c3d-bc8d-a628b8155101
+[NotebookApp | INFO] Saving file at /Week 3/Scales.ipynb
+[NotebookApp | WARNING] Notebook Week 3/Scales.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 979b5277-5119-4c3d-bc8d-a628b8155101) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 979b5277-5119-4c3d-bc8d-a628b8155101:8e9dae59c3d0477b8000aa56bbd6e26c
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.29ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Creating new notebook in /Week 3
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.15ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Kernel started: 7641cfea-3a73-490b-93a3-c420ac5bdb3b
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 7641cfea-3a73-490b-93a3-c420ac5bdb3b) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 3/Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.25ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.29ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Copying resources/week-3/datasets/cwurData.csv to /resources/week-3/datasets
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.07ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.89ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.21ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Group%20by.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.29ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Group%20by.ipynb
+[NotebookApp | WARNING] Notebook Week 3/Group by.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 1378573f-3724-49bf-8f6d-5d7a2ca34c19
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | WARNING] Notebook Week 3/Group by.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 1378573f-3724-49bf-8f6d-5d7a2ca34c19) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.35ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.33ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.06ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Scales.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.28ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Scales.ipynb
+[NotebookApp | WARNING] Notebook Week 3/Scales.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 3/Scales.ipynb
+[NotebookApp | WARNING] Notebook Week 3/Scales.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 979b5277-5119-4c3d-bc8d-a628b8155101) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | INFO] Starting buffering for 979b5277-5119-4c3d-bc8d-a628b8155101:1d4e2791189b44ef887a532c556e81fb
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | INFO] Starting buffering for 7641cfea-3a73-490b-93a3-c420ac5bdb3b:056ae4b818864e21bb27b56120e16e07
+[NotebookApp | INFO] Starting buffering for 1378573f-3724-49bf-8f6d-5d7a2ca34c19:e9634d027b5048288e5e20c61c8bcaed
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 3 kernels
+[NotebookApp | INFO] Kernel shutdown: 979b5277-5119-4c3d-bc8d-a628b8155101
+[NotebookApp | INFO] Kernel shutdown: 7641cfea-3a73-490b-93a3-c420ac5bdb3b
+[NotebookApp | INFO] Kernel shutdown: 1378573f-3724-49bf-8f6d-5d7a2ca34c19
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://ff9deca17ef6:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.40) 0.60ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 5.65ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Pivot%20Table.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.31ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Pivot%20Table.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook Week 3/Pivot Table.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 3a3c363b-d283-4239-adca-87ffa569ed78
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 3a3c363b-d283-4239-adca-87ffa569ed78) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | WARNING] Notebook Week 3/Pivot Table.ipynb is not trusted
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.54ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Group%20by.ipynb
+[NotebookApp | WARNING] Notebook Week 3/Group by.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 74c19836-75bd-492e-97c6-07807cf6368b
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | WARNING] Notebook Week 3/Group by.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 74c19836-75bd-492e-97c6-07807cf6368b) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 74c19836-75bd-492e-97c6-07807cf6368b:730df90848d046a094409eb11458e40b
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.37ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.32ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.17ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/More%20Data%20Processing%20with%20Pandas.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.76ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/More%20Data%20Processing%20with%20Pandas.ipynb
+[NotebookApp | WARNING] Notebook Week 3/More Data Processing with Pandas.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 5430c012-6d64-4f00-9646-8aff0f43e16e
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | WARNING] Notebook Week 3/More Data Processing with Pandas.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 5430c012-6d64-4f00-9646-8aff0f43e16e) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 5430c012-6d64-4f00-9646-8aff0f43e16e:4fb73cbeae64470e8ae6cdf897b179f5
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.31ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.27ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.35ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Scales.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.28ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Scales.ipynb
+[NotebookApp | WARNING] Notebook Week 3/Scales.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 32d90838-9e5b-4e35-9e85-88d850f8aa5b
+[NotebookApp | INFO] Saving file at /Week 3/Scales.ipynb
+[NotebookApp | WARNING] Notebook Week 3/Scales.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 32d90838-9e5b-4e35-9e85-88d850f8aa5b) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 32d90838-9e5b-4e35-9e85-88d850f8aa5b:975a8362214546a9854858f460c639ed
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.21ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.26ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Pivot%20Table.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.28ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Pivot%20Table.ipynb
+[NotebookApp | WARNING] Notebook Week 3/Pivot Table.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | WARNING] Notebook Week 3/Pivot Table.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 3a3c363b-d283-4239-adca-87ffa569ed78) to 5.3 (client).
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.22ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Creating new notebook in /Week 3
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.35ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Untitled.ipynb?kernel_name=python3
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.17ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Kernel started: d897a7f5-360c-4f50-9c5e-2126442ce5db
+[NotebookApp | INFO] Saving file at /Week 3/Untitled.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel d897a7f5-360c-4f50-9c5e-2126442ce5db) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 3/Quiz.ipynb
+[NotebookApp | INFO] Starting buffering for 3a3c363b-d283-4239-adca-87ffa569ed78:48896a4dbe3a41629f9f36d1a6bf2c1d
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.12ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.31ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/More%20Data%20Processing%20with%20Pandas.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.23ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/More%20Data%20Processing%20with%20Pandas.ipynb
+[NotebookApp | WARNING] Notebook Week 3/More Data Processing with Pandas.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 3/More Data Processing with Pandas.ipynb
+[NotebookApp | WARNING] Notebook Week 3/More Data Processing with Pandas.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 5430c012-6d64-4f00-9646-8aff0f43e16e) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 5430c012-6d64-4f00-9646-8aff0f43e16e:6d4db7de62714a2489f79fb3253348f3
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.27ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.36ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.35ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Group%20by.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.31ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Group%20by.ipynb
+[NotebookApp | WARNING] Notebook Week 3/Group by.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 74c19836-75bd-492e-97c6-07807cf6368b) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 3/Group by.ipynb
+[NotebookApp | WARNING] Notebook Week 3/Group by.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Week 3/Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Quiz.ipynb
+[NotebookApp | INFO] Starting buffering for 74c19836-75bd-492e-97c6-07807cf6368b:4b2fb49d04dd481a837300bb7aa501d2
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.29ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.51ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.06ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/DataFrame%20Data%20Structure.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.16ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/DataFrame%20Data%20Structure.ipynb
+[NotebookApp | WARNING] Notebook Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 8d6413fc-d5b6-4ade-9b54-2e869ef5691c
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | WARNING] Notebook Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 8d6413fc-d5b6-4ade-9b54-2e869ef5691c) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 3/Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 3/Quiz.ipynb
+[NotebookApp | INFO] Starting buffering for d897a7f5-360c-4f50-9c5e-2126442ce5db:36ad1000f1bb4876abbe7b9241100f60
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 6 kernels
+[NotebookApp | INFO] Kernel shutdown: 3a3c363b-d283-4239-adca-87ffa569ed78
+[NotebookApp | INFO] Kernel shutdown: 74c19836-75bd-492e-97c6-07807cf6368b
+[NotebookApp | INFO] Kernel shutdown: 5430c012-6d64-4f00-9646-8aff0f43e16e
+[NotebookApp | INFO] Kernel shutdown: 32d90838-9e5b-4e35-9e85-88d850f8aa5b
+[NotebookApp | INFO] Kernel shutdown: d897a7f5-360c-4f50-9c5e-2126442ce5db
+[NotebookApp | INFO] Kernel shutdown: 8d6413fc-d5b6-4ade-9b54-2e869ef5691c
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://bd57a82ed650:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.53) 0.82ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 9.96ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/DataFrame%20Data%20Structure.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.15ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/DataFrame%20Data%20Structure.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: ab0058f6-cfc4-4f8a-85a4-5e6527e33cb9
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | WARNING] Notebook Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel ab0058f6-cfc4-4f8a-85a4-5e6527e33cb9) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for ab0058f6-cfc4-4f8a-85a4-5e6527e33cb9:9be71fb7f6cd44c09b8c08281a05e8b7
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.36ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.22ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Creating new directory in 
+[NotebookApp | INFO] Creating new notebook in /Week 4
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.07ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%204/Untitled.ipynb?kernel_name=python3
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.05ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%204/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Kernel started: dd445780-fd73-438f-902e-2c04d6a46c2b
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel dd445780-fd73-438f-902e-2c04d6a46c2b) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 4/Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.31ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.60ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Creating new directory in /Week 4
+[NotebookApp | INFO] Copying resources/week-4/datasets/grades.csv to /resources/week-4/datasets
+[NotebookApp | WARNING] 500 PATCH /api/contents/resources/week-4/datasets/grades-Copy1.csv (1.178.250.47): Unknown error renaming file: resources/week-4/datasets/grades-Copy1.csv [Errno 2] No such file or directory: '/home/jovyan/work/Week 4/datasets/grades-Copy1.csv'
+[NotebookApp | WARNING] Unknown error renaming file: resources/week-4/datasets/grades-Copy1.csv [Errno 2] No such file or directory: '/home/jovyan/work/Week 4/datasets/grades-Copy1.csv'
+[NotebookApp | ERROR] {
+      "X-Forwarded-For": "1.178.250.47",
+      "X-Forwarded-Proto": "https",
+      "X-Forwarded-Port": "443",
+      "Host": "dpkjiaol.labs.coursera.org",
+      "X-Amzn-Trace-Id": "Root=1-6368d6a8-0f8076985bf91f960dc044b9",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0",
+      "Accept": "application/json, text/javascript, */*;q=0.01",
+      "Accept-Language": "es-ES, es;q=0.8, en-US;q=0.5, en;q=0.3",
+      "Accept-Encoding": "gzip, deflate, br",
+      "X-Xsrftoken": "2|8c2c3e64|2bc28409aa61eba3c8d20afca4615faa|1666083385",
+      "X-Requested-With": "XMLHttpRequest",
+      "Origin": "https://dpkjiaol.labs.coursera.org",
+      "Referer": "https://dpkjiaol.labs.coursera.org/tree/resources/week-4/datasets",
+      "Sec-Fetch-Dest": "empty",
+      "Sec-Fetch-Mode": "cors",
+      "Sec-Fetch-Site": "same-origin",
+      "Cookie": "CSRF3-Token=1668349944.piKe9qjsSKUU1zYi; __204u=4137562096-1666035347245; __204r=https%3A%2F%2Fmail.google.com%2F; _xsrf=2|8c2c3e64|2bc28409aa61eba3c8d20afca4615faa|1666083385; profileconsent=eyI0NjAyMjQ3OCI6eyJjY3BhUmVxdWlyZWQiOmZhbHNlLCJnZHByUmVxdWlyZWQiOmZhbHNlfX0=; COURSERA_SUBMISSION_TOKEN=P0LfZrDykZAMG3MwtlN1; __400v=ed89be32-900d-45b2-a6db-ff5ae272b9a7; __400vt=1667815059240; dpkjiaol-wkspc-iframe=true",
+      "Content-Type": "application/json",
+      "Content-Length": "44"
+    }
+[NotebookApp | ERROR] 500 PATCH /api/contents/resources/week-4/datasets/grades-Copy1.csv (1.178.250.47) 6.34ms referer=https://dpkjiaol.labs.coursera.org/tree/resources/week-4/datasets
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Basic Statistical Testing.ipynb
+[NotebookApp | INFO] Starting buffering for dd445780-fd73-438f-902e-2c04d6a46c2b:26006b1205574ef7aa450d1f9d582c3d
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.07ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: ab0058f6-cfc4-4f8a-85a4-5e6527e33cb9
+[NotebookApp | INFO] Kernel shutdown: dd445780-fd73-438f-902e-2c04d6a46c2b
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://19cedcd11b9b:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.101) 0.57ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | INFO] 302 GET / (10.0.0.103) 0.47ms
+[NotebookApp | INFO] 302 GET / (1.178.250.47) 0.54ms
+[NotebookApp | INFO] 302 GET / (10.0.0.24) 0.51ms
+[NotebookApp | INFO] 302 GET / (10.0.0.98) 0.52ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 8.09ms referer=https://dpkjiaol.labs.coursera.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.27ms referer=https://dpkjiaol.labs.coursera.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.40ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.67ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Creating new notebook in /Week 4
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 0.94ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%204/Untitled.ipynb?kernel_name=python3
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.25ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%204/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Kernel started: 60ee9310-c6cd-4b8d-81f0-7bfa88ec1537
+[NotebookApp | INFO] Saving file at /Week 4/Untitled.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 60ee9310-c6cd-4b8d-81f0-7bfa88ec1537) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 4/Other Forms of Structured Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Other Forms of Structured Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Other Forms of Structured Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Other Forms of Structured Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Other Forms of Structured Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Other Forms of Structured Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Other Forms of Structured Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Other Forms of Structured Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Other Forms of Structured Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Other Forms of Structured Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Other Forms of Structured Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Other Forms of Structured Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Other Forms of Structured Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Other Forms of Structured Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Other Forms of Structured Data.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.30ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.30ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Creating new file in /Week 4/datasets
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.48ms referer=https://dpkjiaol.labs.coursera.org/edit/Week%204/datasets/untitled.txt
+[NotebookApp | INFO] Saving file at /Week 4/datasets/facebook-combined
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.26ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.33ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Saving file at /Week 4/Other Forms of Structured Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Other Forms of Structured Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Other Forms of Structured Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Other Forms of Structured Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Other Forms of Structured Data.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Other Forms of Structured Data.ipynb
+[NotebookApp | INFO] Starting buffering for 60ee9310-c6cd-4b8d-81f0-7bfa88ec1537:15f7061b74ac41cbbfb0e32b6515f8c4
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 60ee9310-c6cd-4b8d-81f0-7bfa88ec1537) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 60ee9310-c6cd-4b8d-81f0-7bfa88ec1537:15f7061b74ac41cbbfb0e32b6515f8c4
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 60ee9310-c6cd-4b8d-81f0-7bfa88ec1537
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://00a1496565ee:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.40) 0.59ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 5.28ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%204/Other%20Forms%20of%20Structured%20Data.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 0.98ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%204/Other%20Forms%20of%20Structured%20Data.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook Week 4/Other Forms of Structured Data.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 7f1ee316-34c4-4228-9831-f68d5fd91f95
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 7f1ee316-34c4-4228-9831-f68d5fd91f95) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 4/Other Forms of Structured Data.ipynb
+[NotebookApp | WARNING] Notebook Week 4/Other Forms of Structured Data.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 7f1ee316-34c4-4228-9831-f68d5fd91f95:acb81b6431cf434089c1a6565b143d96
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.03ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Creating new notebook in /Week 4
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.06ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%204/Untitled.ipynb?kernel_name=python3
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 0.88ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%204/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Kernel started: e20cb986-3a69-4808-bb1a-8f829ccd7c2f
+[NotebookApp | INFO] Saving file at /Week 4/Untitled.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel e20cb986-3a69-4808-bb1a-8f829ccd7c2f) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 4/Week 4 Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Week 4 Quiz.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.04ms referer=https://dpkjiaol.labs.coursera.org/tree/Week%204/datasets
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 0.94ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Saving file at /Week 4/Week 4 Quiz.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.09ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201/Week%201%20lectures/Manipulating%20Text%20with%20Regular%20Expressions%20(Regexes).ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 0.99ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%201/Week%201%20lectures/Manipulating%20Text%20with%20Regular%20Expressions%20(Regexes).ipynb
+[NotebookApp | WARNING] Notebook Week 1/Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 7ec170e0-6db4-4723-93a7-028bf3b72fe0
+[NotebookApp | INFO] Saving file at /Week 1/Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb
+[NotebookApp | WARNING] Notebook Week 1/Week 1 lectures/Manipulating Text with Regular Expressions (Regexes).ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 7ec170e0-6db4-4723-93a7-028bf3b72fe0) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 7ec170e0-6db4-4723-93a7-028bf3b72fe0:82ca500d298146a6b5e96d08aa938dfc
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.24ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 0.97ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.18ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/Introduction%20to%20Pandas%20and%20Series%20Data.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.19ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/Introduction%20to%20Pandas%20and%20Series%20Data.ipynb
+[NotebookApp | WARNING] Notebook Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 22270239-965a-40cf-8a84-ffd44039eb44
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb
+[NotebookApp | WARNING] Notebook Week 2/Week 2 Lectures/Introduction to Pandas and Series Data.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 22270239-965a-40cf-8a84-ffd44039eb44) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 22270239-965a-40cf-8a84-ffd44039eb44:86ac098be988425ca1bd24bf5609dd50
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.02ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.01ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/More%20on%20DataFrames%20functions.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 0.92ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/More%20on%20DataFrames%20functions.ipynb
+[NotebookApp | WARNING] Notebook Week 2/Week 2 Lectures/More on DataFrames functions.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 9a0aad7c-366b-4427-aa2f-9fdc7be93ef6
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/More on DataFrames functions.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 9a0aad7c-366b-4427-aa2f-9fdc7be93ef6) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 9a0aad7c-366b-4427-aa2f-9fdc7be93ef6:bfc18163956b457c839d45bb8f840d8e
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.00ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | INFO] Saving file at /Week 4/Week 4 Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Week 4 Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Week 4 Quiz.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.03ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/Indexing%20DataFrames.ipynb
+[NotebookApp | WARNING] Notebook Week 2/Week 2 Lectures/Indexing DataFrames.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 4fc7c60c-a6bf-4f3b-85ee-78730bcdf125
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/Indexing DataFrames.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 4fc7c60c-a6bf-4f3b-85ee-78730bcdf125) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 4fc7c60c-a6bf-4f3b-85ee-78730bcdf125:d2afeef7a9a14cf992f07cf64c9e9931
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.08ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/DataFrame%20Data%20Structure.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.07ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%202/Week%202%20Lectures/DataFrame%20Data%20Structure.ipynb
+[NotebookApp | WARNING] Notebook Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 64688df4-72c5-4176-a0a4-637bf0a60049
+[NotebookApp | INFO] Saving file at /Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb
+[NotebookApp | WARNING] Notebook Week 2/Week 2 Lectures/DataFrame Data Structure.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 64688df4-72c5-4176-a0a4-637bf0a60049) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /Week 4/Week 4 Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Week 4 Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Week 4 Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Week 4 Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Week 4 Quiz.ipynb
+[NotebookApp | INFO] Saving file at /Week 4/Week 4 Quiz.ipynb
+[NotebookApp | INFO] Starting buffering for e20cb986-3a69-4808-bb1a-8f829ccd7c2f:bb2fc76499bb440f87dba06a0e647b98
+[NotebookApp | INFO] Starting buffering for 64688df4-72c5-4176-a0a4-637bf0a60049:fb58d7d958a8468a8a6302780f8efbf1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.16ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.10ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Pivot%20Table.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.02ms referer=https://dpkjiaol.labs.coursera.org/notebooks/Week%203/Pivot%20Table.ipynb
+[NotebookApp | WARNING] Notebook Week 3/Pivot Table.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: f72caa1f-9485-42cd-97d3-86902fd8533f
+[NotebookApp | INFO] Saving file at /Week 3/Pivot Table.ipynb
+[NotebookApp | WARNING] Notebook Week 3/Pivot Table.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel f72caa1f-9485-42cd-97d3-86902fd8533f) to 5.3 (client).
+[NotebookApp | INFO] 302 GET / (10.0.0.30) 0.55ms
+[NotebookApp | INFO] 302 GET / (10.0.0.103) 0.49ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.05ms referer=https://dpkjiaol.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (1.178.250.47) 1.23ms referer=https://dpkjiaol.labs.coursera.org/tree
